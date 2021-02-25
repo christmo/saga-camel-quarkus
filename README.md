@@ -52,7 +52,8 @@ If you want to learn more about building native executables, please consult http
 ## Provided example
 
 The example makes a purchase and generates the order reservation and the credit reservation, the implementation is done with camel-saga an extension supported by quarkus
-###Make a Purchase
+
+### Make a Purchase
 
 Swagger API
 
